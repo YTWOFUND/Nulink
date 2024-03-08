@@ -1,7 +1,7 @@
 # Nulink
 
 Nulink Node Installation Instructions </br>
-### [Official site](https://protocol.penumbra.zone/main/index.html)
+### [Official site](https://docs.nulink.org/products/stakers/nulink_worker)
 
 ### System requirements: </br>
 CPU: 2 Core </br>
